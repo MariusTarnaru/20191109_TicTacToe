@@ -1,3 +1,5 @@
+package TicTacToe;
+
 public class TicTacToe {
 
     public static final char SYMBOL_X = 'X';

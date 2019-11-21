@@ -1,3 +1,5 @@
+package TicTacToe;
+
 public class Player {
 
     public String name;
